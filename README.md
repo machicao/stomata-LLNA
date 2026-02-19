@@ -1,4 +1,3 @@
-```markdown
 # Pattern Recognition of Stomatal Distribution using Life-Like Network Automata (LLNA)
 
 This repository contains the implementation of a graph-based pattern recognition framework to classify stomatal spatial distribution under environmental stress. The method models stomatal centroids as networks and extracts dynamical signatures using Life-Like Network Automata (LLNA).
@@ -62,5 +61,3 @@ Optional (for plots and analysis):
 - Python 3.x
 - MATLAB
 
-
-```
